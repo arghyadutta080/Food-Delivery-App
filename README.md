@@ -1,6 +1,6 @@
 <h1 align='center'>Food-Delivery-App</h1>
 
-<h3 align='center'>Getting Started with Expo</h3>
+<h3 align='center'>Getting Started with Expo Go</h3>
 
 <h4 align='center'>This project was bootstrapped with [Expo](https://docs.expo.dev/) and [React Native](https://reactnative.dev/)</h4>
 
@@ -15,6 +15,14 @@
 <a style="margin-right: 50px"><img alt="Tailwind CSS" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="53" height="45" ></a>
 </p>
 
+## <h3 align='center'> sample UI of our cross-platform mobile-app </h3>
+<p align='center'>
+<img src="./assets/screenshots/Home.jpg" alt="Screenshot of Home Screen" width="195">
+<img src="./assets/screenshots/Restaurant.jpg" alt="Screenshot of Food items Screen" width="195">
+<img src="./assets/screenshots/Basket.jpg" alt="Screenshot of Basket Screen" width="195">
+<img src="./assets/screenshots/OrderLoading.jpg" alt="Screenshot of Loading Screen" width="195">
+<img src="./assets/screenshots/Delivery.jpg" alt="Screenshot of Delivery Screen" width="195">
+<p>
 
 ## Installation
 
