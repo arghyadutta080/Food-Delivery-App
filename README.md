@@ -1,11 +1,12 @@
-# Food-Delivery-App
+<h1 align='center'>Food-Delivery-App</h1>
 
-## Getting Started with Expo
+<h3 align='center'>Getting Started with Expo</h3>
 
-This project was bootstrapped with [Expo](https://docs.expo.dev/) and [React Native](https://reactnative.dev/).
+<h4 align='center'>This project was bootstrapped with [Expo](https://docs.expo.dev/) and [React Native](https://reactnative.dev/)</h4>
 
-## Tools Used :
+## <h3> Tools and technology Used : </h3>
 <p>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="43" height="43"/> </a>
 <a style="margin-right: 50px"><img alt="Expo" src="https://github.com/expo/expo/raw/main/.github/resources/banner.png" width="40" height="40" ></a>
 <a style="margin-right: 50px"><img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="React Native" width="43" height="43"></a>
 <a style="margin-right: 50px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="43" height="43" ></a>
@@ -15,17 +16,16 @@ This project was bootstrapped with [Expo](https://docs.expo.dev/) and [React Nat
 </p>
 
 
-## Platform Used : 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="43" height="43"/> </a>
+## Installation
+
+To run the app locally, you will need to have [Node.js](https://nodejs.org/) and [Expo](https://www.npmjs.com/package/expo) installed on your machine. Once you have these installed, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/arghyadutta080/Food-Delivery-App.git`
+2. Install dependencies: `npm install`
+3. Run the app: `expo start`
+4. Then a QR Code will appear in terminal, scan it with **Expo Go** app, available in both **[Android Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&pli=1)** and **[iOS App Store](https://apps.apple.com/app/expo-go/id982107779)**.
 
 
-### Make sure to run the first command in terminal after cloning the repository:
+## Contributing
 
-```npm install```
-
-
-Next, in the project directory, you can run the command on your terminal:
-
-```expo start```
-
-Then a QR Code will appear in terminal, scan it with **Expo Go** app, available in both **[Android Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&pli=1)** and **[iOS App Store](https://apps.apple.com/app/expo-go/id982107779)**.
+Contributions to the project are welcome! To contribute, fork the repository and create a new branch for your changes. Once you have made your changes, create a pull request to merge your branch into the main repository.
