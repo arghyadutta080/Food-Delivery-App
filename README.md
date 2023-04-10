@@ -15,7 +15,7 @@
 <a href="https://tailwindcss.com/docs/guides/create-react-app"><img alt="Tailwind CSS" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="53" height="45" ></a>
 </p>
 
-## <h3 align='center'> sample UI of our cross-platform mobile-app </h3>
+## <h3 align='center'> Sample UI of our Cross-Platform Mobile-App </h3>
 <p align='center'>
 <img src="./assets/screenshots/Home.jpg" alt="Screenshot of Home Screen" width="195">
 <img src="./assets/screenshots/Restaurant.jpg" alt="Screenshot of Food items Screen" width="195">
