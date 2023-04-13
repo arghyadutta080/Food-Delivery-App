@@ -17,11 +17,11 @@
 
 ## <h3 align='center'> Sample UI of our Cross-Platform Mobile-App </h3>
 <p align='center'>
-<img src="./assets/screenshots/Home.jpg" alt="Screenshot of Home Screen" width="195">
-<img src="./assets/screenshots/Restaurant.jpg" alt="Screenshot of Food items Screen" width="195">
-<img src="./assets/screenshots/Basket.jpg" alt="Screenshot of Basket Screen" width="195">
-<img src="./assets/screenshots/OrderLoading.jpg" alt="Screenshot of Loading Screen" width="195">
-<img src="./assets/screenshots/Delivery.jpg" alt="Screenshot of Delivery Screen" width="195">
+<img src="./assets/screenshots/Home.jpg" alt="Screenshot of Home Screen" width="200">
+<img src="./assets/screenshots/Restaurant.jpg" alt="Screenshot of Food items Screen" width="200">
+<img src="./assets/screenshots/Basket.jpg" alt="Screenshot of Basket Screen" width="200">
+<img src="./assets/screenshots/OrderLoading.jpg" alt="Screenshot of Loading Screen" width="200">
+<img src="./assets/screenshots/Delivery.jpg" alt="Screenshot of Delivery Screen" width="200">
 <p>
 
 ## Installation
