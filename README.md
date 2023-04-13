@@ -2,7 +2,7 @@
 
 <h3 align='center'>Getting Started with Expo Go</h3>
 
-<h4 align='center'>This project was bootstrapped with [Expo](https://docs.expo.dev/) and [React Native](https://reactnative.dev/)</h4>
+<h4 align='center'>This project was bootstrapped with Expo and React Native</h4>
 
 ## <h3> Tools and technology Used : </h3>
 <p>
@@ -20,7 +20,6 @@
 <img src="./assets/screenshots/Home.jpg" alt="Screenshot of Home Screen" width="200">
 <img src="./assets/screenshots/Restaurant.jpg" alt="Screenshot of Food items Screen" width="200">
 <img src="./assets/screenshots/Basket.jpg" alt="Screenshot of Basket Screen" width="200">
-<img src="./assets/screenshots/OrderLoading.jpg" alt="Screenshot of Loading Screen" width="200">
 <img src="./assets/screenshots/Delivery.jpg" alt="Screenshot of Delivery Screen" width="200">
 <p>
 
