@@ -15,6 +15,8 @@
 <a href="https://tailwindcss.com/docs/guides/create-react-app"><img alt="Tailwind CSS" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="53" height="45" ></a>
 </p>
 
+### A demo [Video Link](https://www.linkedin.com/posts/arghya-dutta-developer_reactnative-redux-tailwindcss-activity-7052739981898915840-QhNt?utm_source=share&utm_medium=member_desktop) of this project
+
 ## <h3 align='center'> Sample UI of our Cross-Platform Mobile-App </h3>
 <p align='center'>
 <img src="./assets/screenshots/Home.jpg" alt="Screenshot of Home Screen" width="200">
